@@ -32,5 +32,5 @@ Versão inicial: 1.0
 ## Links
 
 - LinkedIn: adicionar link
-- GitHub Pages: adicionar link
+- GitHub Pages: (https://fabioffdacruz-01.github.io/portfolio-fabio-cruz/)
 - YouTube: adicionar link
